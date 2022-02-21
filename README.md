@@ -162,5 +162,8 @@ Just because you can, doesn’t mean you should.
 	تعدا پارامترهای یادگیری (تعداد فلش ها که نشان دهنده وزن متغیرها هستند) در مدل هایی با تعداد نود های یکسان که در پهنا و عمق با هم متفاوت هستند تفاوت می کند. 
 	
 
+See the following Code file:
+
+ANN_01.ipynb
 
 
