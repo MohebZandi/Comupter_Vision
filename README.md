@@ -3,7 +3,7 @@ My way in Computer Vison and Image and Video Processing
 Real Time Object detection and morphology
 
 
-A Deep Understanding of Deep Learning
+A Deep Understanding of Deep Learning .
 by Mike X Cohen
 
 با توجه به اینکه نوشتن متن فارسی در این محیط ممکن است باعث ایجاد مشکلاتی در خواندن متن و یا درج تصاویر گردد می توانید از فایل متنی ورد که در این فولدر وجود دارد استفاده نمایید.
